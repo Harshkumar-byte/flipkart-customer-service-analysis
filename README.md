@@ -226,6 +226,4 @@ Flipkart-Customer-Service-Analysis/
 
 ## 📷 Dashboard Preview
 
-<img width="928" height="437" alt="Dashboard" src="https://github.com/user-attachments/assets/4d611330-fc94-4911-9e12-35f15c9cf9b0" />
-
----
+<img width="928" height="437" alt="Dashboard" src="https://github.com/user-attachments/assets/07c99720-50dc-49fa-bab0-c1c85f26ef31" />
