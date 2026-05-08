@@ -224,6 +224,6 @@ Flipkart-Customer-Service-Analysis/
 │
 └── README.md
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Previe
 
-<img width="928" height="437" alt="Dashboard" src="https://github.com/user-attachments/assets/07c99720-50dc-49fa-bab0-c1c85f26ef31" />
+<img width="928" height="437" alt="Dashboard" src="https://github.com/user-attachments/assets/c04e97a9-7c4f-4589-ae6f-9eedd948798e" />
